@@ -22,7 +22,7 @@ The following domains and apps are within the scope of the program:
 To be eligible, you must demonstrate a security compromise on any of these domains using a
 reproducible exploit, including the following:
 
-- Cross-site scripting exploitsd.
+- Cross-site scripting exploits.
 - Cross-site request forgery exploits.
 - Authentication or authorization flaws.
 - Official Sideway mobile apps or API flaws.
