@@ -13,7 +13,7 @@ If you have any questions or concerns, email us at support@sideway.com.
 - [Trademark Policy](https://github.com/sideway/policies/blob/master/trademark-policy.md)
 - [Bug Bounty Disclosure Program](https://github.com/sideway/policies/blob/master/bug-bounty-program.md)
 
-## Acknoledgement
+## Acknowledgement
 
 The Sideway policies and guidelines were originally adapted from the [Medium Policies and Guidelines](https://github.com/Medium/medium-policy).
 Both the Medium and Sideway policies are published under a [Creative Commons Sharealike license](https://github.com/sideway/policies/blob/master/LICENSE),
