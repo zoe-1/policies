@@ -70,7 +70,7 @@ logs.
 ## Modifying your personal information or deleting your account
 
 If you have a Sideway account, you can access and modify your personal information, or delete your account
-by sending a request to [support@support.com](mailto:support@sideway.com).
+by sending a request to [support@sideway.com](mailto:support@sideway.com).
 
 To protect information from accidental or malicious destruction, we may not immediately delete residual copies
 from our active servers and may not remove information from our backup systems.
