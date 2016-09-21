@@ -1,7 +1,7 @@
 {
     "name": "policies",
     "description": "Sideway Policies and Guidelines",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "repository": "git://github.com/sideway/policies",
     "keywords": [
         "sideway",
