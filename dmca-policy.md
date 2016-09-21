@@ -4,7 +4,7 @@ Effective: September 17, 2016
 
 This policy explains how Sideway responds to the allegations of unauthorized use of copyrighted
 images, text, or links to allegedly infringing materials under the Digital Millennium Copyright
-Act (“DMCA”).
+Act ("DMCA").
 
 ## The DMCA
 
@@ -35,9 +35,9 @@ following information:
   perjury, that you are authorized to act on behalf of the copyright owner.
 
 You can report alleged copyright infringement by emailing the above information to
-[support@support.com](mailto:support@sideway.com).
+[support@sideway.com](mailto:support@sideway.com).
 
-Under 17 U.S.C. § 512(f), you may be liable for any damages, including costs and attorneys'
+Under 17 U.S.C. Â§ 512(f), you may be liable for any damages, including costs and attorneys'
 fees incurred by us or our users, if you knowingly materially misrepresent that material or
 activity is infringing. If you aren't sure whether the material you are reporting is in fact
 infringing your rights, you should consult an attorney before sending us a copyright notification.
@@ -126,4 +126,4 @@ the site and content will be subject to the new Terms.
 
 ## Questions
 
-We welcome questions, concerns, and feedback about this policy at [support@support.com](mailto:support@sideway.com).
+We welcome questions, concerns, and feedback about this policy at [support@sideway.com](mailto:support@sideway.com).
