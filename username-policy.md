@@ -43,4 +43,4 @@ the site and content will be subject to the new Terms.
 
 ## Questions
 
-We welcome questions, concerns, and feedback about this policy at [support@support.com](mailto:support@sideway.com).
+We welcome questions, concerns, and feedback about this policy at [support@sideway.com](mailto:support@sideway.com).
