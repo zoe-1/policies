@@ -33,7 +33,7 @@ We'll look into it and take the appropriate action. This might include temporari
 removing a post or account.
 
 If you think someone is infringing your trademark, send the following information to
-[support@support.com](mailto:support@sideway.com):
+[support@sideway.com](mailto:support@sideway.com):
 
 1. Your contact information:
 	- Name
@@ -66,4 +66,4 @@ the site and content will be subject to the new Terms.
 
 ## Questions
 
-We welcome questions, concerns, and feedback about this policy at [support@support.com](mailto:support@sideway.com).
+We welcome questions, concerns, and feedback about this policy at [support@sideway.com](mailto:support@sideway.com).
